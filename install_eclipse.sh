@@ -7,5 +7,3 @@ if [ ! -f eclipse/eclipse ] ; then
   tar xzf itscl_linux.tgz
   rm itscl_linux.tgz
 fi
-
-
